@@ -1,0 +1,45 @@
+package com.google.android.apps.camera.hdrplus.fusion.api.qAwe;
+
+public class yGCWWDnsImN {
+   public static String BAhBN;
+   public static String BBNZYtJS;
+   public static String BpuFay;
+   public static String CWwLF;
+   public static String EqUAbAyWtix;
+   public static String GOfphpCTvbpx;
+   public static String GyH;
+   public static String HPnI;
+   public static String KeXqbbPNeXazir;
+   public static String LcBsPFFbo;
+   public static String MoN;
+   public static String Ppaio;
+   public static String PxQpnOQWXI;
+   public static String ScZSoDtwsC;
+   public static String VWQVtzcM;
+   public static String VnVqMGnOgjOGb;
+   public static String WrTbgPLfG;
+   public static String adTWO;
+   public static String bDAyFzaSdnFdZh;
+   public static String fOiohYXjVUuJk;
+   public static String fedVnEgoDxlvHVd;
+   public static String fhYpuyUnVsvALb;
+   public static String iDzzHnlWWTe;
+   public static String ieowZFFkp;
+   public static String kAjj;
+   public static String kUgPRQHFtnmq;
+   public static String lCMXpIPM;
+   public static String lEfgAGwoVYolUaT;
+   public static String lJoaNdKerfY;
+   public static String oiJI;
+   public static String pAYDEFCklHfHwC;
+   public static String pIpokKduV;
+   public static String tOL;
+   public static String tQxuFPP;
+   public static String tUTQoCzrLKB;
+   public static String tWXbHMfar;
+   public static String tcBbdqwVbNj;
+   public static String ubhD;
+   public static String wWTYdxqqXVpVgY;
+   public static String xLvlqNIOMelSXC;
+   public static String xPZpkSczC;
+}
